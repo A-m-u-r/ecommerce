@@ -1,0 +1,11 @@
+.icon{
+position: absolute;
+left: 11.34%;
+right: 11.34%;
+top: 12.5%;
+bottom: 12.5%;
+
+/* Neutral/07/100% */
+border: 1.5px solid #141718;
+border-radius: 4px;
+}
